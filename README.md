@@ -1,9 +1,9 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shizheng233&count_private=true" alt="呜呜呜"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shizheng233&count_private=true&hide_border=true" alt="呜呜呜"/>
 
 
-### 你好 Holle 👋
+## 你好 Holle 👋
 
 - 喜欢写代码的小伙子/Like to code, a young-boy
 - 散装Android开发者/No system-learning Android Delevop
