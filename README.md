@@ -5,7 +5,7 @@
 
 ## 你好 Holle 👋
 
-- 喜欢写代码的小伙子/Like to code, a young-boy
+- 喜欢写代码的小伙子/A young-boy who Like coding
 - 散装Android开发者/No system-learning Android Delevop
 - 80岁，是史前生物/80 Years-old, a monster
 
