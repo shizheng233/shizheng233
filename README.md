@@ -5,7 +5,7 @@
 
 ## 你好 Holle 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shizheng233&count_private=true&hide_border=true&show_icons=true" alt="呜呜呜"/>
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=shizheng233&count_private=true&hide_border=true&show_icons=true" alt="呜呜呜"/>
 
 - 喜欢写代码的小伙子/A young-boy who Like coding
 - 散装Android开发者/No system-learning Android Delevop
