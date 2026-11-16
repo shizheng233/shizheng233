@@ -8,7 +8,7 @@
 <img align="right" src="https://github-stats-extended.vercel.app/api?username=shizheng233&count_private=true&hide_border=true&show_icons=true" alt="呜呜呜"/>
 
 - 喜欢写代码的小伙子/Just a lad who likes to code.
-- 散装Android开发者A loosely assembled Android developer.
+- 散装Android开发者/A loosely assembled Android developer.
 - 80岁，是史前生物/80 years old. A certified prehistoric relic
 
 
